@@ -1,6 +1,6 @@
-### kodluyoruzilkrepo
-
-* Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-end Eğitimi Kapsamında Açtığım İlk Repo'dur.
+# kodluyoruzilkrepo
+* Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-end Eğitimi kapsamında açtığım ilk repo'dur.
+![github](git.png)
 
 # Installation
 * Öncelikle projeyi clonelayın.
